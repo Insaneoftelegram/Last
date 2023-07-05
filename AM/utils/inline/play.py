@@ -125,7 +125,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
             )
         ],
         [
-            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/Resso_support")
+            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/+kHGxjaEO-etjNDhl")
         ],
     ]
     return buttons
@@ -157,7 +157,7 @@ def stream_markup(_, videoid, chat_id):
             )
         ],
         [
-            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/Resso_support")
+            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/+kHGxjaEO-etjNDhl")
         ],
     ]
     return buttons
@@ -186,7 +186,7 @@ def telegram_markup(_, chat_id):
             )
         ],
         [
-            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/Resso_support")
+            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/+kHGxjaEO-etjNDhl")
         ],
     ]
     return buttons
@@ -214,7 +214,7 @@ def track_markup(_, videoid, user_id, channel, fplay):
             )
         ],
         [
-            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/Resso_support")
+            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/+kHGxjaEO-etjNDhl")
         ],
     ]
     return buttons
