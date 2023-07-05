@@ -65,7 +65,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
             )
         ],
         [
-            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/Resso_support")
+            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/+kHGxjaEO-etjNDhl")
         ],
     ]
     return buttons
