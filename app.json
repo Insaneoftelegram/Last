@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "5642193",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "c28fc9ac88530587236175da89184d75",
         "required": true
       },
         "AUTO_LEAVING_ASSISTANT": {
@@ -29,12 +29,12 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from @BotFather",
-        "value": "",
+        "value": "6088570842:AAEP-Stzkhzj53aijcDOeDbhs-hZo9qjeLU",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://hnyx:wywyw2@cluster0.9dxlslv.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "MUSIC_BOT_NAME": {
@@ -44,12 +44,12 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.get from @MissRose_bot user /id",
-        "value": "",
+        "value": "1872927069",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.get from @ssgenrobot",
-        "value": "",
+        "value": "BQBbfXqBaorKNrkjfMsQreuKPRfpeuoHdfDXDMoqOSowdrvP8yiI2hBgIVITS-bGEp3a_vIHGJZ8-m6l93X6sZGAFxWHmhBowGMHIlm4-4VFAEiuHynB4ECfyGfxa0-aeAQnRdk8vPpfJ-iekQV0Dq5P7b_k_eGv49SZ4ggjqL7ahSe3tvH-I7nghMhxzXQKr4vB1Un46eUQmGhmWpeJygk9gL0pGesbrgNkl996JC9KHGiO1uvpdzDLamu49I6nwcAGdi1Jrpb3cMT5hsVLBuuTUWaWHb9mFaMEZp1Ozp7ObL496uP7EfgaHMwgcGMsvKhmNGCYwNYPrZrukZcmnfBzAAAAAWpvsoYA",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -64,7 +64,7 @@
       },
       "SUPPORT_GROUP": {
         "description": "Your Support Group link ",
-        "value": "https://t.me/INSANEX3_SUPPORT",
+        "value": "https://t.me/resso_SUPPORT",
         "required": false
       },
       "SUPPORT_CHANNEL": {
@@ -74,12 +74,12 @@
       },
       "PING_IMG_URL": {
         "description": "The pic which will be shown when you give the /ping cmd to the bot.",
-        "value": "https://telegra.ph/file/f20237d3a028a343d595a.jpg",
+        "value": "https://telegra.ph/file/a42e0a1e09e4ca442fe3b.jpg",
         "required": false
       },
       "START_IMG_URL": {
         "description": "The pic which will be shown when you /start the bot in private.",
-        "value": "https://telegra.ph/file/da545a93169c6e91d4c98.jpg",
+        "value": "https://telegra.ph/file/a42e0a1e09e4ca442fe3b.jpg",
         "required": false
       },
       "SPOTIFY_CLIENT_ID": {
@@ -99,12 +99,12 @@
       },
        "UPSTREAM_REPO": {
         "description": "Your Fork Repo link ",
-        "value": "https://github.com/Insaneoftelegram/RESSO_BOT",
+        "value": "https://github.com/Insaneoftelegram/RESSO1",
         "required": false
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-1001857376981",
         "required": true
       }
     },
